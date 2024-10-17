@@ -34,4 +34,4 @@ When updating the task's status, it is automatically moved to the correct column
 # Additional Feature:
 Tasks can be moved between columns by dragging and dropping for smoother task organization.
 
-->This app enhances productivity by allowing users to manage tasks efficiently through an intuitive, flexible Kanban system with drag-and-drop support for task movement across columns.
+Note ->This app enhances productivity by allowing users to manage tasks efficiently through an intuitive, flexible Kanban system with drag-and-drop support for task movement across columns.
